@@ -57,6 +57,7 @@ Forward pass (how predictions are made)
 Backpropagation (how learning happens)
 Training loops & optimization
  How to Use
+4. Daily Tasks
 Start from /python if fundamentals are weak
 Move to /ml for core ML concepts
 Go into /nn only after understanding basics
@@ -109,6 +110,59 @@ Contribution
 Feel free to fork, experiment, and improve.
 Breaking things is part of the process.
 
-📄License
+
+ Additional Resources
+
+
+ Online Courses & Platforms
+
+Free
+- [CS50P – Introduction to Programming with Python](https://cs50.harvard.edu/python/) — Harvard, completely free
+- [Python for Everybody – Coursera](https://www.coursera.org/specializations/python) — free to audit
+- [Kaggle Learn – Python](https://www.kaggle.com/learn/python) — interactive, free
+- [Google's Python Class](https://developers.google.com/edu/python) — short and practical
+- [freeCodeCamp – Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) — free
+
+Paid (recommended)
+- [Zero to Mastery – Data Science Bootcamp](https://zerotomastery.io/) — highly popular
+- [Udemy – 100 Days of Code: Python](https://www.udemy.com/course/100-days-of-code/) — by Angela Yu
+
+---
+
+Books
+
+- **Python Crash Course** — Eric Matthes 
+- **Automate the Boring Stuff with Python** — Al Sweigart
+- **Python for Data Analysis** — Wes McKinney 
+- **Hands-On Machine Learning** — Aurélien Géron 
+- **Think Python** — Allen Downey 
+
+
+
+Practice Projects
+
+Beginner
+- Calculator / To-Do app (Python OOP)
+- Simple data analysis with a CSV file
+- Web scraping (BeautifulSoup)
+
+Intermediate
+- Kaggle Titanic / House Prices competitions
+- EDA (Exploratory Data Analysis) project
+- Dashboard with Streamlit
+
+Portfolio-ready
+- End-to-end ML project + GitHub + README
+
+---
+
+Useful Websites
+
+- [Kaggle](https://kaggle.com) — datasets + competitions
+- [Real Python](https://realpython.com) — in-depth articles
+- [W3Schools Python](https://www.w3schools.com/python/) — quick reference
+- [LeetCode](https://leetcode.com) — problem solving (with Python)
+
+License
 
 This project is for educational purposes.
